@@ -21,3 +21,10 @@ A results-driven CAD Customization Developer with over 4 years of experience, br
 - **CAD Automation:** Plugins, macros and scripts for NX to automate repetitive design tasks and integrate CAD with downstream tooling.  
 - **Generative Design:** Prototyping generative design workflows and optimization scripts using Fusion 360 / Python.  
 - **Full-cycle Development:** From requirement analysis to implementation and maintenance, with a focus on reliability and manufacturability.
+
+## My Approach
+- **Problem Solving:** I enjoy tackling complex problems and finding effective solutions that meet user needs and business goals.
+- **Continuous Learning:** Staying updated with the latest trends and best practices.
+- **Collaboration:** Working closely with clients and team members to ensure successful project outcomes.
+
+---
